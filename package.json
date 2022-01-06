@@ -1,0 +1,23 @@
+{
+  "name": "random-electronic-music-style",
+  "version": "1.0.0",
+  "description": "A package test to publish on npmjs (and prints a random style of electronic music)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "test",
+    "electronic music",
+    "styles"
+  ],
+  "author": "Manuel Marín",
+  "license": "MIT",
+  "bin": {
+    "random-electronic-music-style": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
