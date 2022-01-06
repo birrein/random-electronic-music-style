@@ -17,7 +17,15 @@
   "author": "Manuel Marín",
   "license": "MIT",
   "bin": {
-    "random-electronic-music-style": "./bin/global.js"
+    "random-electronic-music-style": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birrein/random-electronic-music-style.git"
+  },
+  "bugs": {
+    "url": "https://github.com/birrein/random-electronic-music-style/issues"
+  },
+  "homepage": "https://github.com/birrein/random-electronic-music-style#readme"
 }
